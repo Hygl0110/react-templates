@@ -15,7 +15,7 @@ To start using this template, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd react-template
+   cd react-templates
    ```
 
 3. Install the project dependencies using npm:
