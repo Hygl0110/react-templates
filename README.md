@@ -9,10 +9,9 @@ To start using this template, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   gh repo clone Hygl0110/react-templates
-   ```
+   git clone https://github.com/Hygl0110/react-templates
 
-   If you haven't installed GitHub CLI yet, you can do so from [here](https://cli.github.com/).
+   ```
 
 2. Navigate to the project directory:
 
