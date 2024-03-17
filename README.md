@@ -1,4 +1,4 @@
-# React Web Page Template
+# React WebApp Page Template
 
 This project is a basic web page template with a header, main content, and footer structure, along with a navigation system to switch between components. It's based on React, making it ideal for starting new web projects with this technology.
 
@@ -9,8 +9,10 @@ To start using this template, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Hygl0110/react-templates.git
+   gh repo clone Hygl0110/react-templates
    ```
+
+   If you haven't installed GitHub CLI yet, you can do so from [here](https://cli.github.com/).
 
 2. Navigate to the project directory:
 
